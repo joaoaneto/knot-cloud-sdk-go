@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/joaoaneto/knot-cloud-websocket-go/config"
-	"github.com/joaoaneto/knot-cloud-websocket-go/pkg/service/cloud"
+	"github.com/joaoaneto/knot-cloud-sdk-go/config"
+	"github.com/joaoaneto/knot-cloud-sdk-go/pkg/service/cloud"
 )
 
 func main() {

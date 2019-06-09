@@ -9,8 +9,8 @@ import (
 	"strconv"
 
 	"github.com/gorilla/websocket"
-	"github.com/joaoaneto/knot-cloud-websocket-go/config"
-	"github.com/joaoaneto/knot-cloud-websocket-go/knot"
+	"github.com/joaoaneto/knot-cloud-sdk-go/config"
+	"github.com/joaoaneto/knot-cloud-sdk-go/knot"
 )
 
 // Client represents the WS client state

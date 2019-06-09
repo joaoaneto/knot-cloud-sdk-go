@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/joaoaneto/knot-cloud-websocket-go/knot"
+	"github.com/joaoaneto/knot-cloud-sdk-go/knot"
 )
 
 // IdentityRequestMessage represents the identity request message

@@ -3,7 +3,7 @@ package cloud
 import (
 	"encoding/json"
 
-	"github.com/joaoaneto/knot-cloud-websocket-go/knot"
+	"github.com/joaoaneto/knot-cloud-sdk-go/knot"
 )
 
 // DevicesRequestMessage represents the devices request message
